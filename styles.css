@@ -1,0 +1,54 @@
+#fondo-superior {
+    background-color: #5c6ac4;
+}
+
+#logo {
+    filter: brightness(0) invert(1);
+    height: 35%;
+    margin-top: 20px;
+}
+
+#titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 3.7rem;
+}
+h2 {
+    font-size: 2.5rem;
+    font-weight: 450;
+}
+#email {
+    height: 3.5rem;
+}
+#email::placeholder{
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+#boton-email {   
+    height: 3.5rem; 
+}
+
+.fa-laptop {
+   color : #5c6ac4; 
+}
+.fa-money-bill-alt {
+    color : #5c6ac4;
+}
+.fa-user-friends {
+    color : #5c6ac4;
+}
+.card-text {
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span {
+   color: #5c6ac4;
+   font-weight: 400;
+   font-size: 1.1rem;
+}
+
+#boton-final {
+    background-color: #5c6ac4;
+    border: none;
+}
